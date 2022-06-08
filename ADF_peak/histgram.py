@@ -1,3 +1,4 @@
+#関数ファイル
 import matplotlib.pyplot as plt
 def hist(a, bins):
     fig = plt.figure()
